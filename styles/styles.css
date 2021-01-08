@@ -550,6 +550,9 @@ li.active::before{
     
 }
 .content-right-top-time{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
     width: auto;
     height: 50px;
     margin: 10px;
